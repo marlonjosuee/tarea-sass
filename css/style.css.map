@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/_reset.scss","../sass/_navbar.scss","../sass/_hero.scss","../sass/_mixinsfunc.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE;;;ACLF;EACE;;;AAEF;EACE;;AACA;EACE;EACA;EACA;EACA;EACA;EACA;EACA;;AAEF;EACE;EACA;;AAEA;EACE;;AAMJ;EACE;IACE;;;;ACzBJ;EACE;EAEA;ECLF;EACA;EACA,iBDKoC;;AAEpC;EACE;;AAEF;EACE","file":"style.css"}
